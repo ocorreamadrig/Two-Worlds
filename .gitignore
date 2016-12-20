@@ -1,4 +1,4 @@
-/[Ll]ibrary/
+#/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -11,16 +11,16 @@ ExportedObj/
 #*.unityproj
 #*.sln
 #*.suo
-*.tmp
-*.user
+#*.tmp
+#*.user
 #*.userprefs
-*.pidb
-*.booproj
-*.svd
+#*.pidb
+#*.booproj
+#*.svd
 
 
 # Unity3D generated meta files
-*.pidb.meta
+# *.pidb.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
