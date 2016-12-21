@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{19BFD047-E80F-BCC6-8646-4023220DC4D6}") = "Two-Worlds", "Assembly-CSharp.csproj", "{D27F37E6-F53F-1FD8-7347-96DB7B792D2D}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two-Worlds", "Two-Worlds.csproj", "{050351A0-D38E-C202-8A71-C0DF05ABD3F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D27F37E6-F53F-1FD8-7347-96DB7B792D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D27F37E6-F53F-1FD8-7347-96DB7B792D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D27F37E6-F53F-1FD8-7347-96DB7B792D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D27F37E6-F53F-1FD8-7347-96DB7B792D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050351A0-D38E-C202-8A71-C0DF05ABD3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050351A0-D38E-C202-8A71-C0DF05ABD3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050351A0-D38E-C202-8A71-C0DF05ABD3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050351A0-D38E-C202-8A71-C0DF05ABD3F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
